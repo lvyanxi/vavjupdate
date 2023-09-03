@@ -1,1 +1,7 @@
-[{"ver": "vavjb_23u822", "download_link": "https://lvyanxi.github.io/vavjupdate/file/vavj_beta_23u822.zip ","description":"更新测试"}]
+[
+    {
+        "newver": "2023u25",
+        "filename": "update.zip",
+        "download_link": "http://192.168.1.6:45645/file2/lvyanxi%E7%9A%84%E9%A1%B9%E7%9B%AE/vavjb_23u725-pre4.zip"
+    }
+]
